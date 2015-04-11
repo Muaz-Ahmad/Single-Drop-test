@@ -1,0 +1,15 @@
+body{
+	background-color:red;
+
+
+}
+
+.myclass{
+	color: blue;
+}
+
+#header{
+	font-color: aqua;
+	margin-right: 10px;
+	margin-left; 30 px
+}
